@@ -1,8 +1,8 @@
 {
-    "code":  2,
-    "nom":  "1.0.1",
-    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.1/julie-2.apk",
-    "sha256":  "2cacffe65d8f95e448a9016f67fb93c681dfc6e8e29299bc36e5a85e1791994d",
-    "taille":  2756400,
-    "note":  "Nouveau nom Cocon et nouvelle icône"
+    "code":  3,
+    "nom":  "1.0.2",
+    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.2/julie-3.apk",
+    "sha256":  "3c41cee595054553205807de46b884cc473d9696679e42a6701ec3945cda2697",
+    "taille":  5203427,
+    "note":  "Ciné, vraies pochettes, logos des journaux et activités manuelles"
 }
