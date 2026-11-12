@@ -1,9 +1,9 @@
 {
-    "code": 6,
-    "nom": "1.0.5",
-    "apk": "https://github.com/FGNL/julie-releases/releases/download/v1.0.5/julie-6.apk",
-    "sha256": "22bb1c8dccc61a56a789f3d796b5655a22d3a524e29a5db47c640c76cfab8a88",
-    "taille": 5276247,
-    "note": "La maison fume au milieu de la barre, et l’appli se met à jour toute seule la nuit",
-    "publiee": "2026-11-12T10:55:47Z"
+    "code": 7,
+    "nom": "1.0.6",
+    "apk": "https://github.com/FGNL/julie-releases/releases/download/v1.0.6/julie-7.apk",
+    "sha256": "c9525ab55aba0b5d077a2e13118d6f711b38f4a1467b94551a2680054f3aa3f7",
+    "taille": 5277695,
+    "note": "Une carte dit si les mises à jour automatiques sont prêtes",
+    "publiee": "2026-11-12T11:54:36Z"
 }
