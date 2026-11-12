@@ -1,8 +1,8 @@
 {
-    "code":  3,
-    "nom":  "1.0.2",
-    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.2/julie-3.apk",
-    "sha256":  "3c41cee595054553205807de46b884cc473d9696679e42a6701ec3945cda2697",
-    "taille":  5203427,
-    "note":  "Ciné, vraies pochettes, logos des journaux et activités manuelles"
+    "code":  4,
+    "nom":  "1.0.3",
+    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.3/julie-4.apk",
+    "sha256":  "d4bff8dbfad96ddd258ade13b586be4551d1d0ecc7509a70dbd069abe2dd5ad8",
+    "taille":  5228383,
+    "note":  "Choisis tes musiques en touchant des pochettes, et plusieurs petites corrections"
 }
