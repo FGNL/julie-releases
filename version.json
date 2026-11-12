@@ -1,9 +1,9 @@
 {
-    "code": 7,
-    "nom": "1.0.6",
-    "apk": "https://github.com/FGNL/julie-releases/releases/download/v1.0.6/julie-7.apk",
-    "sha256": "c9525ab55aba0b5d077a2e13118d6f711b38f4a1467b94551a2680054f3aa3f7",
-    "taille": 5277695,
-    "note": "Une carte dit si les mises à jour automatiques sont prêtes",
-    "publiee": "2026-11-12T11:54:36Z"
+    "code": 8,
+    "nom": "1.0.7",
+    "apk": "https://github.com/FGNL/julie-releases/releases/download/v1.0.7/julie-8.apk",
+    "sha256": "d9b5c88b6c19edbf76a6752d1dab24ca7798af4b5ca3b564c7d7921d03fa688d",
+    "taille": 5383931,
+    "note": "Un petit lecteur de musique, et des pages qui se figent moins",
+    "publiee": "2026-11-12T23:44:53Z"
 }
