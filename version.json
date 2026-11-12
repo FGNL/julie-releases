@@ -1,8 +1,9 @@
 {
-    "code": 5,
-    "nom": "1.0.4",
-    "apk": "https://github.com/FGNL/julie-releases/releases/download/v1.0.4/julie-5.apk",
-    "sha256": "9a5a1eb1b4af6f5993fe998dd7fc6487a876d4cb526e4e48747f3871194ef17a",
-    "taille": 5272651,
-    "note": "Ta musique joue maintenant dans Spotify, même écran éteint"
+    "code": 6,
+    "nom": "1.0.5",
+    "apk": "https://github.com/FGNL/julie-releases/releases/download/v1.0.5/julie-6.apk",
+    "sha256": "22bb1c8dccc61a56a789f3d796b5655a22d3a524e29a5db47c640c76cfab8a88",
+    "taille": 5276247,
+    "note": "La maison fume au milieu de la barre, et l’appli se met à jour toute seule la nuit",
+    "publiee": "2026-11-12T10:55:47Z"
 }
