@@ -1,9 +1,9 @@
 {
-    "code":  9,
-    "nom":  "1.0.8",
-    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.8/julie-9.apk",
-    "sha256":  "0ac220e784f144c73d7406bcc86957df9f84f6c9a275ed897e6541c2baecd5ae",
-    "taille":  5581590,
-    "note":  "Un fond tout en laine, et une marmotte dans ta tasse",
-    "publiee":  "2026-11-13T09:02:26Z"
+    "code":  10,
+    "nom":  "1.0.9",
+    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.9/julie-10.apk",
+    "sha256":  "ab95482c936512cd6e6d32fe2fe4365803b3a744e54fac93b4c0e089a10cdfb0",
+    "taille":  5818126,
+    "note":  "Un coup d\u0027œil sur ton jeu, et une marmotte sans vapeur",
+    "publiee":  "2026-11-13T19:15:37Z"
 }
