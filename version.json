@@ -1,9 +1,9 @@
 {
-    "code":  10,
-    "nom":  "1.0.9",
-    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.9/julie-10.apk",
-    "sha256":  "ab95482c936512cd6e6d32fe2fe4365803b3a744e54fac93b4c0e089a10cdfb0",
-    "taille":  5818126,
-    "note":  "Un coup d\u0027œil sur ton jeu, et une marmotte sans vapeur",
-    "publiee":  "2026-11-13T19:15:37Z"
+    "code":  11,
+    "nom":  "1.0.10",
+    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.10/julie-11.apk",
+    "sha256":  "3421d3064da72bc9f522f950021a75092eb1a8d242045ce26f804ae545a48294",
+    "taille":  5818838,
+    "note":  "Les nouvelles versions te sont proposées dès l\u0027ouverture",
+    "publiee":  "2026-11-14T12:53:42Z"
 }
