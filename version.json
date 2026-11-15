@@ -1,9 +1,9 @@
 {
-    "code": 12,
-    "nom": "1.0.11",
-    "apk": "https://github.com/FGNL/julie-releases/releases/download/v1.0.11/julie-12.apk",
-    "sha256": "eb92e2fbf2f0ae17581cdaafdc889d207ac80bf135d40958db0cfe4ca93396fc",
-    "taille": 5960008,
-    "note": "Ta musique se choisit toute seule, tes cœurs comptent partout, et tes albums se sauvegardent sur ton Drive",
-    "publiee": "2026-11-14T21:28:39Z"
+    "code": 13,
+    "nom": "1.0.12",
+    "apk": "https://github.com/FGNL/julie-releases/releases/download/v1.0.12/julie-13.apk",
+    "sha256": "5768010036a242bb6c76d2ee86596b5f4969c4c2a0897332ceeb0fafe7273331",
+    "taille": 5963579,
+    "note": "Un vrai cœur sur les vidéos, des cases « Mes styles » pour choisir ce que tu vois, et moins de pubs",
+    "publiee": "2026-11-15T10:25:13Z"
 }
