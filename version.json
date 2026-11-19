@@ -1,9 +1,9 @@
 {
-    "code":  14,
-    "nom":  "1.0.13",
-    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.13/julie-14.apk",
-    "sha256":  "a92dacac5807423f8d48f9d5b823cf08dd369663ed16521ec8e8818ccc09d0df",
-    "taille":  5959995,
-    "note":  "Des vidéos et une musique mieux triées, un coin « Prendre soin de moi », des Réglages mieux rangés et une nouvelle image du café",
-    "publiee":  "2026-11-16T10:57:06Z"
+    "code":  15,
+    "nom":  "1.0.14",
+    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.14/julie-15.apk",
+    "sha256":  "41ac322f1df39ea886640f43db9f07b08b03261655498a6bf85033b81f93f0c1",
+    "taille":  6035955,
+    "note":  null,
+    "publiee":  "2026-11-18T23:56:04Z"
 }
