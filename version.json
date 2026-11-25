@@ -1,9 +1,9 @@
 {
-    "code":  17,
-    "nom":  "1.0.16",
-    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.16/julie-17.apk",
-    "sha256":  "0d626cee40ba9b4df60a850d0cb7c4ed1bc9f5a664471a9c12bf3f398910e3dd",
-    "taille":  6067295,
+    "code":  18,
+    "nom":  "1.0.17",
+    "apk":  "https://github.com/FGNL/julie-releases/releases/download/v1.0.17/julie-18.apk",
+    "sha256":  "378c084dcf251702ec12923d186efd990d7ed8b633ab0b23239a90a810b149e5",
+    "taille":  6099779,
     "note":  "Du nouveau dans ton cocon.",
-    "publiee":  "2026-11-22T06:03:05Z"
+    "publiee":  "2026-11-25T21:10:28Z"
 }
